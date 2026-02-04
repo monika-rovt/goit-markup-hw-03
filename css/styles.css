@@ -96,8 +96,8 @@ address a {
     font-style: normal;
     font-weight: 400;
     letter-spacing: 0.02em;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    /* padding-top: 24px;
+    padding-bottom: 24px; */
 }
 .address-list {
     display: flex;
@@ -283,7 +283,7 @@ footer {
 }
 .footer-logo {
     display: block;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
 }
 footer p {
     line-height: 1.50;
